@@ -251,7 +251,7 @@ img {
     width: 240px;
     height:340px;
     background-color: var(--white-color);
-    border-radius: 50%;
+    border-radius: 2rem;
     overflow: hidden;
     display: flex;
     align-items: flex-end;
@@ -829,7 +829,7 @@ img {
         margin-bottom: 1.5rem;
     }
     .about__image{
-        width: 300px;
+        width: 260px;
         height: 400px;
         border-radius: 1.5rem;
     }
