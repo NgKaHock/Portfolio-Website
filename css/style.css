@@ -120,7 +120,7 @@ img {
     padding-block: 5rem 1rem;
 }
 
-.section-title {
+.section__title {
     text-align: center;
     font-size: var(--h1-font-size);
     color:var(--first-color);
