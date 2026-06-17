@@ -33,7 +33,7 @@ navLink.forEach(link => link.addEventListener('click', linkAction))
 
 // home type js
 const typedHome = new Typed('#hometyped', {
-    strings: ['System Developer', 'Programmer', 'Freelancer'], // insert profession
+    strings: ['System Developer', 'Programmer', 'Problem Solver'], // insert profession
     typeSpeed: 40,
     backSpeed: 50,
     backDelay: 2000,
