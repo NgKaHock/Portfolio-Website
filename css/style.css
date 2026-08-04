@@ -413,7 +413,7 @@ img {
 
 /* Projects */
 .projects__container{
-    row-gap: 2rem;
+    row-gap: 3rem;
 }
 
 .projects__card{
@@ -844,6 +844,11 @@ img {
     .projects{
         padding-block: 8rem 4rem;
     }
+
+    .section__title{
+        margin-bottom: 2rem;
+    }
+
     .projects__container{
         grid-template-columns: repeat(3,350px);
         gap: 3rem 2rem;
